@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-![alt text]{Andor.svg.png)
+![alt text](Andor.svg.png)
 
 # Andor
 
